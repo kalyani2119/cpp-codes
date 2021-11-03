@@ -13,5 +13,4 @@ volume = (4*pi*radius*radius*radius)/3;
 cout<<"The surface area of the sphere is:"<<surfaceArea<<endl;
 cout<<"The volume of the sphere is:"<<volume<<endl;
 system("pause>0");
-
 }
