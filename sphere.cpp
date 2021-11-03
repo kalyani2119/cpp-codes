@@ -1,3 +1,4 @@
+/*To find the surface area and the volume of the sphere with radius given as an input from the user*/
 #include<iostream>
 #include <cmath>
 using namespace std;
