@@ -7,3 +7,4 @@ Experimenting with c plus plus
 > 4. Ciphering the letters
 > 5. Arduino led blinking program
 > 6. To find number of days in a given month.
+> 7. To check the numbers that are divisible by 2 and 4 between 10-100
