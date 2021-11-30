@@ -11,3 +11,4 @@ Experimenting with c plus plus
 > 8. To find the surface area and the volume of the sphere with radius given as an input from the user
 > 9. To calculate the distance of the two given coordinate points
 > 10. To print blocked message when the password or pin entered by the user after three chances.
+> 11. To generate ten Random numbers using the function rand()
